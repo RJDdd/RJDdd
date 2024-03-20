@@ -10,10 +10,6 @@
 #### **Nombre:** Rajid Luan Dokins Damiao
 #### **Edad:** 23 años
  
- ![Foto personal](./IMG/Foto%20formal.jpg)
- ![Foto](https://drive.google.com/file/d/10hIbtKUtfO8460wjR56zHg1qzAyl73TM/view?usp=drive_link)
- 
- 
 ## Introducción
  Nací en Brasil, _São Paulo_, en _São Bernado do Campo_ el 21 de enero de 2001. 
  
